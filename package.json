@@ -1,0 +1,23 @@
+{
+  "name": "loftschool-project3",
+  "version": "0.0.1",
+  "description": "the third project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echonok/loftschool-project3.git"
+  },
+  "keywords": [
+    "loftschool",
+    "learning"
+  ],
+  "author": "Nick Elovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echonok/loftschool-project3/issues"
+  },
+  "homepage": "https://github.com/echonok/loftschool-project3#readme"
+}
