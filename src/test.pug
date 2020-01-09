@@ -1,0 +1,12 @@
+- var items = ['first', 'second', 'third']
+//-a(href="#" title="тест")
+
+- for (var i = 0; i < items.length; i++)
+    .wrapper
+      a(href="#" title=i)= i
+      .length= items.length
+
+if items.length === 2
+  .title работает
+else
+  .title не работает
